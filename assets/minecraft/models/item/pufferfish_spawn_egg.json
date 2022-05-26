@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/template_spawn_egg",
   "overrides":[
-    {"predicate":{"custom_model_data":496304},"model":"item/poisonous_potato_block"}
+    {"predicate":{"custom_model_data":496304},"model":"block/poisonous_potato_block"}
   ]
 }

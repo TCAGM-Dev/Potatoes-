@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/poisonous_potato_block",
-		"particle": "item/poisonous_potato_block"
+		"0": "block/poisonous_potato_block",
+		"particle": "block/poisonous_potato_block"
 	},
 	"elements": [
 		{
