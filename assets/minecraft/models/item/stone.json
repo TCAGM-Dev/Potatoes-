@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/stone",
+  "overrides":[
+    {"predicate":{"custom_model_data":496305},"model":"block/potato_ore"}
+  ]
+}
